@@ -1,2 +1,3 @@
-# simple-demo-new
-This is a sample demo Git training repository
+# Simple Example Repostory
+ 
+This is just an example  repository for training purposes
