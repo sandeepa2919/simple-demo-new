@@ -1,3 +1,1 @@
-# Simple Example Repostory
- 
-This is just an example  repository for training purposes
+This is a feature branch readme file
